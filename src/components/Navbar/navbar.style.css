@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    height: 55px;
+    background-color: #F55A5A;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-logo{
+    font-size: 32px;
+    color: white;
+    margin: 5px;
+}
+
+
+.nav-text{
+    font-size: 24px;
+    font-weight: lighter;
+    color: white;
+    margin: 5px;
+}
